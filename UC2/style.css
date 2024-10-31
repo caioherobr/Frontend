@@ -1,0 +1,29 @@
+h1{
+    font-size: 50px;
+    color: blue;
+    padding-left: 50px;
+    background-color: beige;
+    
+}
+body{
+    margin: 100px;
+}
+img{
+    width: 70px;
+    height: 70px;
+}
+body{
+    background-color: mistyrose;
+}
+#senac{
+    width: 300px;
+    height: 300px;
+}
+p{
+    font-size: xx-large;
+    background-color: darkorange;
+    margin: 10px;
+}
+#ter{
+    font-size: xx-large;
+}
